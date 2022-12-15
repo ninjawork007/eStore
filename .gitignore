@@ -1,0 +1,10 @@
+/node_modules
+/public/hot
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+composer.lock
+Homestead.yaml
+npm-debug.log
+yarn-error.log
